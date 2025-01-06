@@ -19,12 +19,16 @@ Acesse aqui: https://felipe-machado-sistema-sad.onrender.com
 - Aplicar GPT com base nos dados da carteira
 ## Screenshots
 
+- Screen Home
 ![App Screenshot](https://github.com/getfelipe/Smart_Wallet_SAD/blob/main/assets/home-wallet.png)
 
+- Screen GPT
 ![App Screenshot](https://github.com/getfelipe/Smart_Wallet_SAD/blob/main/assets/gpt-wallet.png)
 
+- Screen Wallet
 ![App Screenshot](https://github.com/getfelipe/Smart_Wallet_SAD/blob/main/assets/hist-wallet.png)
 
+- Screen Add
 ![App Screenshot](https://github.com/getfelipe/Smart_Wallet_SAD/blob/main/assets/add-wallet.png)
 
 
