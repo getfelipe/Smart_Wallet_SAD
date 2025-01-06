@@ -29,6 +29,7 @@ Acesse aqui: https://felipe-machado-sistema-sad.onrender.com
 ![App Screenshot](https://github.com/getfelipe/Smart_Wallet_SAD/blob/main/assets/hist-wallet.png)
 
 - Screen Add
+  
 ![App Screenshot](https://github.com/getfelipe/Smart_Wallet_SAD/blob/main/assets/add-wallet.png)
 
 
